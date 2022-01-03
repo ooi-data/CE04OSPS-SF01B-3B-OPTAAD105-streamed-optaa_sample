@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE04OSPS-SF01B-3B-OPTAAD105-streamed-optaa_sample
 data_stream: CE04OSPS-SF01B-3B-OPTAAD105-streamed-optaa_sample
 end_date: '2021-12-31T21:44:01.028Z'
-last_updated: '2022-01-02T18:40:13.276439Z'
+last_updated: '2022-01-03T09:53:28.308604'
 start_date: '2015-10-05T20:10:32.532Z'
-status: pending
+status: failed
