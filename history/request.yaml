@@ -1,5 +1,5 @@
-data_ready: false
+data_ready: true
 data_stream: CE04OSPS-SF01B-3B-OPTAAD105-streamed-optaa_sample
 last_request: '2022-01-21T18:35:16.739320Z'
 response: https://raw.githubusercontent.com/ooi-data/CE04OSPS-SF01B-3B-OPTAAD105-streamed-optaa_sample/main/history/response.json
-status: pending
+status: success
